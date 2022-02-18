@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Calculo_ruta">
+
+    <TextView
+        android:id="@+id/TXOrigen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/direccion_origen" />
+
+    <Button
+        android:id="@+id/botonOrigen"
+        android:text="@string/botonModOrigen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/TXDestino"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/direccion_destino" />
+
+    <Button
+        android:id="@+id/botonDestino"
+        android:text="@string/botonModDestino"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <fragment
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/map"
+        tools:context=".MapsActivity"
+        android:name="com.google.android.gms.maps.SupportMapFragment" />
+
+    <LinearLayout
+        android:id="@+id/InfoDeViaje"
+        android:visibility="gone"
+        tools:visibility="gone"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/TXDistancia"
+            android:text="@string/distancia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/TXTiempo"
+            android:text="@string/tiempo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/TXPrecio"
+            android:text="@string/precio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

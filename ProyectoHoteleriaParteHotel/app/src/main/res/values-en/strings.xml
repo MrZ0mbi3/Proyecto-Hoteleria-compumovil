@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Travelers Business</string>
+    <string name="password">Password</string>
+    <string name="Email">Email</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="InvalidSignIn">Email or password are incorrect or you are not registered</string>
+    <string name="Emptyfield">Some field is empty</string>
+    <string name="CreateAnAcount">Create an Account</string>
+    <string name="Name">Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="SignInGoogle">Sign in with Google</string>
+    <string name="RegisterCompleted">Register Completed</string>
+    <string name="RegisterProblem">The Register has had problems to be done </string>
+    <string name="BussinesName"> Business Name</string>
+    <string name="SignPoint">Sign Point</string>
+    <string name="WatchPoints">Watch your points</string>
+    <string name="AskingForMapsPermission">The app must have Location permission</string>
+    <string name="title_activity_maps_registro_puntos">MapsRegistroPuntosActivity</string>
+    <string name="title_activity_maps_mirar_puntos">MapsMirarPuntosActivity</string>
+    <string name="PointName">Point name</string>
+    <string name="PointTags">Tags point</string>
+    <string name="FinishDate">Finish Date</string>
+    <string name="save">Save</string>
+    <string name="Day">Day</string>
+    <string name="Month">Month</string>
+    <string name="Year">Year</string>
+    <string name="city">City</string>
+
+</resources>

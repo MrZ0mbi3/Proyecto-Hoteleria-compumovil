@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "683050107027",
+    "project_id": "proyectohoteleria-7d48e",
+    "storage_bucket": "proyectohoteleria-7d48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683050107027:android:19ccc325a5d88128bbcd66",
+        "android_client_info": {
+          "package_name": "com.example.proyectohoteleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683050107027-hrvevgpebfn3tk1k4pu45ktoqk9hps3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectohoteleria",
+            "certificate_hash": "068457a93ba149f9990c9c6b9b765b6d9e39bb6f"
+          }
+        },
+        {
+          "client_id": "683050107027-u38efuagvpm1qlk9vaubngjh2vnghjs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectohoteleria",
+            "certificate_hash": "2981e379c04bb994d1a657c5c243e55644bbb0f8"
+          }
+        },
+        {
+          "client_id": "683050107027-oip9sj5nlpm2fh0p2tfl4oue50gdc2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2n8IS7ZMRFt68pq8IYEa6ZeQTT0fN8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683050107027-oip9sj5nlpm2fh0p2tfl4oue50gdc2p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683050107027:android:d96da30ae34ee596bbcd66",
+        "android_client_info": {
+          "package_name": "com.example.proyectohotelpartehoteleria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683050107027-91b9brvbbqn0nu9emago1akkbpdtmpoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectohotelpartehoteleria",
+            "certificate_hash": "2981e379c04bb994d1a657c5c243e55644bbb0f8"
+          }
+        },
+        {
+          "client_id": "683050107027-t72l6d0sh87luibr8m49r8k7mrffeufo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectohotelpartehoteleria",
+            "certificate_hash": "068457a93ba149f9990c9c6b9b765b6d9e39bb6f"
+          }
+        },
+        {
+          "client_id": "683050107027-oip9sj5nlpm2fh0p2tfl4oue50gdc2p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR2n8IS7ZMRFt68pq8IYEa6ZeQTT0fN8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683050107027-oip9sj5nlpm2fh0p2tfl4oue50gdc2p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

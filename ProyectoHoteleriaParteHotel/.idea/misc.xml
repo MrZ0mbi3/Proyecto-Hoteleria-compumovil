@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/samy/universidad/semestre 8/Computacion movil/proyecto/compumovil_hoteles/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_maps_registro_puntos.xml" value="0.33" />
+        <entry key="..\:/samy/universidad/semestre 8/Computacion movil/proyecto/compumovil_hoteles/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_pantalla_inicial.xml" value="0.36666666666666664" />
+        <entry key="..\:/universdad/semestre 8/Programacion movil/proyecto/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/universdad/semestre 8/Programacion movil/proyecto/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_maps_mirar_puntos.xml" value="0.25416666666666665" />
+        <entry key="..\:/universdad/semestre 8/Programacion movil/proyecto/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_maps_registro_puntos.xml" value="0.25416666666666665" />
+        <entry key="..\:/universdad/semestre 8/Programacion movil/proyecto/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_pantalla_inicial.xml" value="0.264" />
+        <entry key="..\:/universdad/semestre 8/Programacion movil/proyecto/ProyectoHoteleriaParteHotel/app/src/main/res/layout/activity_registrar.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    tools:context=".Foto">
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:translationX="0dp"
+        android:translationY="0dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/bt_pick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subir foto"
+        android:translationX="0dp"
+        android:translationY="0dp" />
+
+    <Button
+        android:id="@+id/bt_open"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tomar foto"
+        android:translationX="0dp"
+        android:translationY="0dp" />
+</LinearLayout>
